@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/tse
+tse.so
+tse.dylib
+tse.dll
+tse.a
+tse.lib
+tse-test-*
+*.exe
+*.o
+*.obj
+*.lst

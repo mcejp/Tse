@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Martin"
+	],
+	"copyright": "Copyright © 2021, Martin",
+	"description": "Transactional storage engine",
+	"license": "MIT",
+	"name": "tse"
+}
